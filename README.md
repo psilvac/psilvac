@@ -29,11 +29,11 @@ I'm a data science enthusiast and beginner ML developer from Chile. I'm passiona
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psilvac&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilvac&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
