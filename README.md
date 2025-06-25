@@ -21,16 +21,25 @@ I'm a data science enthusiast and beginner ML developer from Chile. I'm passiona
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
 
-**Tools**:  
+**Frameworks Backend**:
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+
+
+**Database**:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+
+**IDEs**:  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+![PyCharm](https://img.shields.io/badge/-PyCharm-143?style=flat&logo=pycharm&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=psilvac&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilvac&layout=compact&theme=tokyonight" alt="Top Languages" />
